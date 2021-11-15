@@ -144,7 +144,7 @@ polib==1.1.1
     # via wagtail-localize
 psutil==5.8.0
     # via scout-apm
-psycopg2-binary==2.9.1
+psycopg2-binary==2.9.2
     # via -r requirements.in
 pycparser==2.20
     # via cffi
@@ -246,7 +246,7 @@ wagtail-airtable==0.2.1
     # via -r requirements.in
 wagtail-factories==2.0.1
     # via -r requirements.in
-git+https://github.com/MozillaFoundation/wagtail-footnotes.git@localized-footnotes
+wagtail-footnotes @ git+https://github.com/MozillaFoundation/wagtail-footnotes.git@localized-footnotes
     # via -r requirements.in
 wagtail-inventory==1.3
     # via -r requirements.in
