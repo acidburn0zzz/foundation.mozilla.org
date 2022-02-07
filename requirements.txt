@@ -38,7 +38,7 @@ cffi==1.14.6
     #   pygit2
 charset-normalizer==2.0.4
     # via requests
-cloudinary==1.26.0
+cloudinary==1.29.0
     # via -r requirements.in
 cryptography==3.4.7
     # via
@@ -246,7 +246,7 @@ wagtail-airtable==0.2.1
     # via -r requirements.in
 wagtail-factories==2.0.1
     # via -r requirements.in
-git+https://github.com/MozillaFoundation/wagtail-footnotes.git@localized-footnotes
+wagtail-footnotes @ git+https://github.com/MozillaFoundation/wagtail-footnotes.git@localized-footnotes
     # via -r requirements.in
 wagtail-inventory==1.3
     # via -r requirements.in
