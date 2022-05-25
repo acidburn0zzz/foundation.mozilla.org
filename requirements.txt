@@ -150,7 +150,7 @@ pycparser==2.20
     # via cffi
 pygit2==1.6.1
     # via wagtail-localize-git
-pyjwt==2.1.0
+pyjwt==2.4.0
     # via social-auth-core
 pyopenssl==20.0.1
     # via urllib3
@@ -246,7 +246,7 @@ wagtail-airtable==0.2.1
     # via -r requirements.in
 wagtail-factories==2.0.1
     # via -r requirements.in
-git+https://github.com/MozillaFoundation/wagtail-footnotes.git@localized-footnotes
+wagtail-footnotes @ git+https://github.com/MozillaFoundation/wagtail-footnotes.git@localized-footnotes
     # via -r requirements.in
 wagtail-inventory==1.3
     # via -r requirements.in
