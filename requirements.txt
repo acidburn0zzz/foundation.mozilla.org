@@ -199,7 +199,7 @@ six==1.16.0
     #   python-dateutil
 smmap==4.0.0
     # via gitdb
-social-auth-app-django==5.0.0
+social-auth-app-django==5.1.0
     # via -r requirements.in
 social-auth-core==4.1.0
     # via social-auth-app-django
@@ -246,7 +246,7 @@ wagtail-airtable==0.2.1
     # via -r requirements.in
 wagtail-factories==2.0.1
     # via -r requirements.in
-git+https://github.com/MozillaFoundation/wagtail-footnotes.git@localized-footnotes
+wagtail-footnotes @ git+https://github.com/MozillaFoundation/wagtail-footnotes.git@localized-footnotes
     # via -r requirements.in
 wagtail-inventory==1.3
     # via -r requirements.in
