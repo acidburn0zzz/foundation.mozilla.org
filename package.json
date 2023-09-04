@@ -98,7 +98,7 @@
     "swiper": "^6.7.5",
     "tailwindcss": "^2.2.9",
     "uuid": "^8.3.2",
-    "whatwg-fetch": "^3.6.2"
+    "whatwg-fetch": "^3.6.18"
   },
   "devDependencies": {
     "browserslist": "^4.17.0",
