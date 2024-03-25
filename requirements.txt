@@ -264,7 +264,7 @@ wagtail==5.2.2
     #   wagtail-localize-git
     #   wagtail-metadata
     #   wagtailmedia
-wagtail-ab-testing==0.9
+wagtail-ab-testing==0.10
     # via -r requirements.in
 wagtail-color-panel==1.4.1
     # via -r requirements.in
